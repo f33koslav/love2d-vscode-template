@@ -9,6 +9,7 @@ Python 3 - download [here](https://www.python.org/downloads/)
 ### VSCode estensions
 
 [Lua by sumneko](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)
+
 [Local Lua Debugger](https://marketplace.visualstudio.com/items?itemName=tomblind.local-lua-debugger-vscode)
 
 ### Adding Love as System variable
