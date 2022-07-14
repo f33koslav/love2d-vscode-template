@@ -1,0 +1,7 @@
+name = "Pong"
+default_targets = ["win64", "macos"]
+build_directory = "bin"
+love_files = [
+"+*",
+"-*/.*",
+]
